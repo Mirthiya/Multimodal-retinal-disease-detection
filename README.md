@@ -2,7 +2,7 @@ Multimodal Retinal Disease Detection using Deep Learning
 
 This project uses deep learning to detect retinal diseases from multimodal images such as fundus photographs and OCT scans. By combining features from different imaging types, the model improves accuracy in diagnosing conditions like Diabetic Retinopathy, Glaucoma, and Age-related Macular Degeneration (AMD). The goal is to support faster and more reliable eye disease detection.
 
-Features
+Features:
 
 Multimodal input combining Fundus and OCT images
 
@@ -14,7 +14,7 @@ Disease visualization using Grad-CAM
 
 Compatible with datasets such as ODIR, REFUGE, or custom clinical data
 
-Tech Stack
+Tech Stack:
 
 Python
 
@@ -24,7 +24,7 @@ OpenCV
 
 NumPy, Pandas, Matplotlib
 
-How It Works
+How It Works:
 
 Data Preprocessing: Images from multiple modalities are cleaned and resized.
 
